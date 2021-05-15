@@ -1,6 +1,9 @@
 body{
   background-image:url(image/Plyazh.jpg);
+  background-repeat:no-repeat;
   background-color:#243CED;
+  background-position:10% 30%;
   color:yellow;
-  background-repeat:repeat-y;
 }
+
+
