@@ -2,6 +2,6 @@ body{
   background-image:url(image/Plyazh.jpg);
   background-repeat:no-repeat;
   background-color:#243CED;
-  background-position:50px 50px;
+  background-position: center top;
   color:yellow;
 }
